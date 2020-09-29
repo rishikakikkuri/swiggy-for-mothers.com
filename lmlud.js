@@ -1,0 +1,1 @@
+alert("Touch the image");
